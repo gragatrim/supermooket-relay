@@ -1,0 +1,7 @@
+{
+  "name": "supermooket-relay",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "gun": "^0.2020.1240", "express": "^4.18.2" }
+}
